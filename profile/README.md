@@ -31,7 +31,7 @@ Développer une application web qui :
 ## 🚀 Technologies utilisées
 
 - **Frontend** : [React](https://reactjs.org/), [Vite](https://vitejs.dev/)
-- **Backend** : [Node.js](https://nodejs.org/)
+- **Backend** : [Spring](https://spring.io/)
 - **Design** : [Tailwind CSS](https://tailwindcss.com/)
 - **Déploiement** : [GitHub Pages](https://pages.github.com/)
 
